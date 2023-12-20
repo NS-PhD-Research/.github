@@ -4,7 +4,7 @@ This organization lists down the PhD work of [Nikhil Sreekumar](https://nikhilsr
 
 ### Projects
 - [Armada](https://github.com/armadaumn)
-- [Cargo](https://github.com/NS-PhD-Research/Cargo)
+- [Cargo](https://github.com/armadaumn/cargo)
 - [SpaLL](https://github.com/NS-PhD-Research/SpaLL)
 - [HACCS](https://github.com/NS-PhD-Research/HACCS)
 - [ARStore]() - In progress
