@@ -9,9 +9,6 @@ This organization lists down the PhD work of [Nikhil Sreekumar](https://nikhilsr
 - [HACCS](https://github.com/NS-PhD-Research/HACCS)
 - [ARStore]() - In progress
 
-### Articles
-
-### Conferences
 <!--
 
 **Here are some ideas to get you started:**
